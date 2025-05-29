@@ -19,8 +19,13 @@
     "default_popup": "popup.html",
     "default_icon": "images/toolbar-icon.svg"
   },
+  "options_ui": {
+     "page": "options.html",
+     "open_in_tab": true
+   },
   "permissions": [
-    "activeTab"
+    "activeTab",
+    "storage"
   ],
   "content_scripts": [
     {
