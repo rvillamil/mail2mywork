@@ -5,11 +5,11 @@
   "description": "__MSG_extension_description__",
   "version": "1.0",
   "icons": {
-    "48": "images/icon-48.png",
-    "96": "images/icon-96.png",
-    "128": "images/icon-128.png",
-    "256": "images/icon-256.png",
-    "512": "images/icon-512.png"
+    "48": "images/my-icon-32.png",
+    "96": "images/my-icon-64.png",
+    "128": "images/my-icon-128.png",
+    "256": "images/my-icon-256.png",
+    "512": "images/my-icon-512.png"
   },
   "background": {
     "scripts": ["background.js"],
